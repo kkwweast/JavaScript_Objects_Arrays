@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  //Sum of Array
  console.log("Exercise 1:\n")
  const testArr = [2, 22, 12, 17, 18, 39, 129] ;
@@ -64,3 +65,14 @@ function reverseWords(sentence ){
 console.log(reverseWords(sentence));
 console.log(reverseWords("My name is Ben"));
 console.log(reverseWords("I am Ironman"));
+=======
+console.log("Hello World!\n==========\n");
+
+// Exercise 1 Section
+console.log("EXERCISE 1:\n==========\n");
+
+// Exercise 2 Section
+console.log("EXERCISE 2:\n==========\n");
+
+
+>>>>>>> 14ca83267fb3910f4d5027cac1bf44663b340e8a
