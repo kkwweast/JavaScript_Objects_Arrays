@@ -21,7 +21,7 @@ return sum;
 
 
 // Exercise 2 Section
-console.log("EXERCISE 2:\n==========\n");
+console.log("Exercise 2:\n")
 
 var Book =  {};
      book.title = "Dracula";
